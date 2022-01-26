@@ -1,7 +1,7 @@
 About pannb
 ===========
 
-Home: https://github.com/ickc/pannb/
+Home: https://github.com/ickc/pannb
 
 Package license: BSD-3-Clause
 
